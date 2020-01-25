@@ -1,0 +1,174 @@
+body{
+	position: relative;
+	width: 595px;
+	height: 842px;
+
+	background: #fff;
+}
+
+.path_1{
+	position: absolute;
+	left: 179px;
+	right: 377.16px;
+	top: 296.49px;
+	bottom: 505.58px;
+}
+
+.path_2{
+	position: absolute;
+	left: 220.52px;
+	right: 338.93px;
+	top: 296.49px;
+	bottom: 505.59px;
+
+}
+
+.rectangle_1{
+	position: absolute;
+	left: 261.49px;
+	right: 321.31px;
+	top: 307.79px;
+	bottom: 505.59px;
+}
+
+.rectangle_2{
+	position: absolute;
+	left: 276.53px;
+	right: 306.28px;
+	top: 296.14px;
+	bottom: 505.63px;
+}
+
+.rectangle_3{
+	position: absolute;
+	left: 291.61px;
+	right: 291.19px;
+	top: 302.11px;
+	bottom: 505.54px;
+}
+
+.path_3{
+	position: absolute;
+	left: 306.94px;
+	right: 247.38px;
+	top: 296.49px;
+	bottom: 505.59px;
+}
+
+.path_4{
+	position: absolute;
+	left: 353.24px;
+	right: 230.76px;
+	top: 282px;
+	bottom: 505.59px;
+}
+
+.path_5{
+	position: absolute;
+	left: 368.18px;
+	right: 197.7px;
+	top: 282px;
+	bottom: 505.59px;
+}
+
+.be_one_step_ahead{
+	position: absolute;
+	left: 179px;
+	right: 193.47px;
+	top: 344.88px;
+	bottom: 470.24px;
+	background: #fff;
+}
+
+.TOP{
+	position: absolute;
+	left: 181px;
+	right: 193px;
+	top: 406px;
+	bottom: 403px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 27px;
+	line-height: 33px;
+
+	color: #37474F;
+}
+
+.for{
+	position: absolute;
+	left: 246px;
+	right: 258px;
+	top: 453.28px;
+	bottom: 367.72px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 18px;
+	line-height: 21px;
+
+	color: #37474F;
+}
+
+.webside{
+	position: absolute;
+	left: 203px;
+	right: 215px;
+	top: 488.16px;
+	bottom: 330.84px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 23px;
+}
+
+.date{
+	position: absolute;
+	left: 252px;
+	right: 265px;
+	top: 542.64px;
+	bottom: 284.36px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	line-height: 15px;
+
+	color: #37474F;
+}
+
+
+.rectangle_4{
+	position: absolute;
+	left: 546px;
+	right: -22px;
+	top: 692px;
+	bottom: -52px;
+
+	background: #F9FAFF;
+}
+
+.rectangle_5{
+	position: absolute;
+	left: 458px;
+	right: 66px;
+	top: 657px;
+	bottom: -51px;
+
+	background: #F9FAFF;
+}
+
+.rectangle_6{
+	position: absolute;
+	left: 61.85%;
+	right: 26.05%;
+	top: 86.1%;
+	bottom: -6.18%;
+
+	background: #F9FAFF;
+}
